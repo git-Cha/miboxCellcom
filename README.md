@@ -19,3 +19,5 @@ copy the files in this repo to mibox2 folder.
 
 
 create a new card and past the content of the file card.txt
+
+good luck
